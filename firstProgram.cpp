@@ -1,6 +1,8 @@
 #include "iostream"
 #include "stdio.h"
 
+
+
 int IntAddition(int Anna, int Bogdan)
 {  
 	int R = Anna + Bogdan;
